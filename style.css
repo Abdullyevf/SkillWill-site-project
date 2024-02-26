@@ -1,0 +1,47 @@
+footer {
+    background-color:#07043B;
+    width: 1440px;
+    height: 391px;
+    top: 1944px;
+    padding: 76px 50px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+
+}
+h1 {
+    color:#FFFFFF;
+    width: 76px;
+    height: 39px;
+    top: 2036px;
+    left: 200px;
+
+}
+socials {
+    width:120px;
+    height: 31px;
+    top: 2114px;
+    left: 1059px;
+
+}
+p {
+    color:#FFFFFF;
+    
+}
+footer div img {
+    width: 50px;
+    height: 50px;
+}
+footer div p,h1 {
+    margin-left:20px ;
+    font-size: 20px;
+}
+.Fylo div {
+    display:flex;
+}
+ 
+
+    
+    
+
+ 
