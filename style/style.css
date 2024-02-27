@@ -92,3 +92,49 @@ nav a {
     
 }
     /*First-Section end*/
+
+
+/* ======= */
+
+
+.content{
+    max-width: 1440px;
+    margin: auto;
+    background-color: #575988;
+    color: white;
+    background-size: 100%;
+    padding: 50px;
+    display: flex;
+
+
+}
+
+.cta{
+
+
+float: left;
+margin: auto;
+
+}
+
+.cta_input{
+margin: auto;
+
+float: right;
+
+}
+
+#fname{
+    width: 480px;
+    height: 48px;
+}
+
+#submit{
+    background-color: #2f65f8;
+    color: white;
+    padding: 10px;
+    border:none;
+    border-radius: 3%;
+    width: 200px;
+    height: 48px;
+}
